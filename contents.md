@@ -16,8 +16,10 @@ in the last four years.
 *   [A Few Extras](novice/extras/index.html)
 
 ## For the More Experienced
-
-Under development.
+* [Shell](intermediate/shell/index.md)
+* [Make](intermediate/make/index.md)
+* [Doit](intermediate/doit/index.md) 
+* [Intermediate python topics](intermediate/python/index.md)
 
 ## Other Materials
 
