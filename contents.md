@@ -16,9 +16,13 @@ in the last four years.
 *   [A Few Extras](novice/extras/index.html)
 
 ## For the More Experienced
-* [Shell](intermediate/shell/index.md)
+* [Shell ssh](intermediate/shell/02-ssh.md)
+* [Shell variables](intermediate/shell/03-var.md)
+* [Shell job control](intermediate/shell/04-job.md)
 * [Make](intermediate/make/index.md)
 * [Doit](intermediate/doit/index.md) 
+* [R](intermediate/r/README.md)
+* [git](intermediate/git/index.md)
 * [Intermediate python topics](intermediate/python/index.md)
 
 ## Other Materials
