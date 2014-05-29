@@ -1,13 +1,13 @@
 Species,Common Name,Size (in meters),Age (in Million Years),Weight (in kg)
 Arctodus simus,Shortfaced Bear,1.7,0.8,10
-Canis dirus,Dire Wolf,1.5,1M,10
+Canis dirus,Dire Wolf,1.5,1,10
 Smilodon fatalis,Sabertooth Cat,1.2,1.5,10
 Homotherium serum,American Scimitar Cat,1,1.5,10
 Castoroides ohioensis,Giant Beaver,1,1.5,10
 Dasypus bellus,Beautiful Armadillo,1,1,10
 Osteoborus cynoides,Bone-Crushing Dog,.9,8,1500
 Camelops hesternus,American Camel,3.6,1,10
-Aepycamelus,Giraffe Camel,3,10M,5000
+Aepycamelus,Giraffe Camel,3,10,5000
 Megalocerous giganteus,Giant Irish Elk,2.1,0.5,10
 Gomphotheres,Four-Tusked Elephant,2.4,15,5000
 Indricotherium transsouralicum,,4.7,30,25000
