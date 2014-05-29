@@ -55,7 +55,7 @@ If you answered "No" to one or more of these questions, please immediately notif
 * Text formatted like this
 
   ~~~
-  $ echo "Hi, bash!"
+  $ echo 'Hi, bash!'
   $ echo $SHELL
   ~~~
   {:class="in"}
