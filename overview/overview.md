@@ -24,8 +24,8 @@
 ## What We Teach
 
 * Unix Command Line Interface (Shell)
-* Version Control (using git)
 * Shell automation 
+* Version Control (using git)
 * Python
 * Testing
 
@@ -93,7 +93,6 @@ it works faster**
 * If you find yourself writing code the same script over and over
 
 ## Don't repeat yourself 
-* Use scripts to explore new ideas, they are easy to write and throw away
 * **Don't repeat commands into your REPL, save them to a script**
 * Refactor commonly used blocks of code into **functions**
 * Group commonly used functions into **libraries**
@@ -101,7 +100,7 @@ it works faster**
 * **Share your code with others, and use their code**
 * Back up everything important in proportion to its replacement value.
 
-# Document your computational work
+## Document your computational work
 * Save **every bit of code** you use for generating publishable results
 * Save the scripts that get and process the data
 * Document and comment your code for yourself as if you will need to understand
