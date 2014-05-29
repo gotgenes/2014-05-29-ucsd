@@ -61,15 +61,13 @@
 * Juan Ugalde (UCSD/Scripps, organizer)
 * volunteers
  
-## Our Goals for You
-
 ## What problems do we want to solve?
 
 * If you've ever overwritten the wrong file, we'll show you how to use version control.
 * If you've ever spent hours typing the same commands over and over again, we'll show you how to automate those tasks using simple scripts.
 * If you've ever spent an afternoon trying to figure out what the program you wrote last week actually does, we'll show you how to break your code into modules that you can read, debug, and improve piece by piece.
 
-# Some High-Level Advice
+## Some High-Level Advice
 
 * You will learn faster by observing and working with others who are more
 skilled than you ( than by working alone )
@@ -88,7 +86,7 @@ less time from the start is wrongly directed attention.
 * Test your workflow on subsets of your data **so that you learn whether
 it works faster**
 
-# Warning signs
+## Warning signs
 * If you find yourself typing the same commands again and again
 * If you repeat the same block of code with cut-and-paste more than once
 * If any piece of code is too complex to easily describe, consider refactoring it
@@ -118,11 +116,7 @@ it in 6 months
 </table>
 </div>
 
-# That's all Folks
-
-# Books
-
-# Research Literature
+## That's all Folks
 
 ## Programming Languages for Scientific Computing
 Matthew G. Knepley
