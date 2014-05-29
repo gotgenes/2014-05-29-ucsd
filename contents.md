@@ -9,7 +9,7 @@ in the last four years.
 
 ## Lessons
 
-*   [Introduction](intro.html)
+*   [Introduction](overview/overview.html)
 *   [The Unix Shell](novice/shell/index.html)
 *   [Version Control with Git](novice/git/index.html)
 *   [Programming with Python](novice/python/index.html)
