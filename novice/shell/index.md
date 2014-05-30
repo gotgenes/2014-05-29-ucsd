@@ -20,5 +20,6 @@ so that they don't have to type the same things over and over again.
 5.  [Loops](04-loop.html)
 6.  [Shell Scripts](05-script.html)
 7.  [Finding Things](06-find.html)
+8.  [Regular expressions](../regexp/regex.md)
 
 </div>
