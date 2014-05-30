@@ -30,12 +30,17 @@ etc.) provides :
 want to share (in the most liberal sense) your stuff with the world, pay
 github money for private repos, or host your own.
 
-## github pasword 
+
+## Sign up for a github accout
 
 Setting up github at first requires a github user name and password.
 Please take a moment to [create a free one](https://github.com/signup/free)
 (if you want to start paying, you can add that to your account some other
 day). 
+
+## making a repository on github
+You click the "New repository" button.  I haven't done this before the class,
+so you get to watch {{page.testrepo}} come into being.
 
 ## git remote : Steps for Forking a Repository
 
