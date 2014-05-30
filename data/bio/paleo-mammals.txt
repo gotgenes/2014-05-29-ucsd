@@ -1,23 +1,24 @@
-Arctodus simus,Shortfaced Bear,1.7m,800K,10K
-Canis dirus,Dire Wolf,1.5m,1M,10K 
-Smilodon fatalis,Sabertooth Cat,1.2m,1.5M,10K
-Homotherium serum,American Scimitar Cat,1m,1.5M,10K
-Castoroides ohioensis,Giant Beaver,1m,1.5M,10K
-Dasypus bellus,Beautiful Armadillo,1m,1M,10K
-Osteoborus cynoides,Bone-Crushing Dog,.9m,8M,1.5M
-Camelops hesternus,American Camel,3.6m,1M,10K
-Aepycamelus,Giraffe Camel,3m,10M,5M
-Megalocerous giganteus,Giant Irish Elk,2.1m,500k,10K
-Gomphotheres,Four-Tusked Elephant,2.4m,15M,5M
-Indricotherium transsouralicum,,4.7m,30M,25M
-Chalicotherium,,2.75m,45M,3.5M
-Gigantopithecus blacki,,3m,700K,125K 
-Elasmotherium sibiricus,,2m,1M,10K
-Doedicurus,Glyptodon,1.5m,1.5M,12K 
-Uintatherium robustum,,1.5m,50M,35M
-Odobenocetops peruvianus,Walrus-Whale,2.1m,5M,1M
-Mammuthus primigenius,Woolly mammoth,2.75m,1.5M,8K 
-Coelodonta antiquitatis,Woolly rhinoceros,2m,500K,10K
-Megatherium americanum,Ground sloth,6m,30M,8K 
-Megalonyx jeffersonii,Jefferson's Ground Sloth,3m,30M,8K 
-Nothrotheriops shastensis,Shasta Ground Sloth,1.5m,30M,8K 
+Species,Common Name,Size (in meters),Age (in Million Years),Weight (in kg)
+Arctodus simus,Shortfaced Bear,1.7,0.8,10
+Canis dirus,Dire Wolf,1.5,1,10
+Smilodon fatalis,Sabertooth Cat,1.2,1.5,10
+Homotherium serum,American Scimitar Cat,1,1.5,10
+Castoroides ohioensis,Giant Beaver,1,1.5,10
+Dasypus bellus,Beautiful Armadillo,1,1,10
+Osteoborus cynoides,Bone-Crushing Dog,.9,8,1500
+Camelops hesternus,American Camel,3.6,1,10
+Aepycamelus,Giraffe Camel,3,10,5000
+Megalocerous giganteus,Giant Irish Elk,2.1,0.5,10
+Gomphotheres,Four-Tusked Elephant,2.4,15,5000
+Indricotherium transsouralicum,,4.7,30,25000
+Chalicotherium,,2.75,45,35000
+Gigantopithecus blacki,,0.37,125
+Elasmotherium sibiricus,,2,1,10
+Doedicurus,Glyptodon,1.5,1.5,12
+Uintatherium robustum,,1.5,50,35000
+Odobenocetops peruvianus,Walrus-Whale,2.1,5,1000
+Mammuthus primigenius,Woolly mammoth,2.75,1.5,8
+Coelodonta antiquitatis,Woolly rhinoceros,2,0.5,10
+Megatherium americanum,Ground sloth,6,30,8
+Megalonyx jeffersonii,Jefferson's Ground Sloth,3,30,8
+Nothrotheriops shastensis,Shasta Ground Sloth,1.5,30,8
