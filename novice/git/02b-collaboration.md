@@ -2,7 +2,7 @@
 layout: lesson
 root: ../..
 testrepo: testrepo-2014-05-29-ucsd
-username: wltrimbl
+username: gotgenes
 title: "Version Control With Git: Using Remote Repositories"
 ---
 ## github.com?
